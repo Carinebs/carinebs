@@ -1,7 +1,7 @@
 ## Hi, I'm Carine 
 
-- 🔭 I’m currently working on data science and software developer
-- 🌱 I’m currently learning Python, R, SQL, cloud computing.
+- 🔭 I’m currently working on Frontend software developer
+- 🌱 I’m currently learning Javascipt, React, css, web development.
 - 👯 I’m looking to collaborate on projects that help me learn new abilities. 
 - 😄 Pronouns: She/Her 
 
